@@ -6,4 +6,3 @@ This is QA branch change
 
 This is test branch change
 
-This is change from other person
